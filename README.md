@@ -79,8 +79,8 @@
 
 ## 📊 GitHub Stats
 
-![Susheel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+![Susheel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SusheelK7&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SusheelK7&layout=compact&theme=default&hide_border=true)
 
 ---
 
