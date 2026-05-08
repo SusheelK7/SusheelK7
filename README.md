@@ -3,7 +3,7 @@
 🚀 Full Stack Developer | ReactJS • NodeJS • MongoDB • Express  
 🎓 CS Student | Building modern web applications  
 📫 Reach me at: susheelkumaar3@gmail.com  
-🌐 Portfolio: [Your website]
+🌐 Portfolio: susheelkumar.vercel.app
 
 ## 🛠 Tech Stack
 - Frontend: HTML, CSS, JavaScript, ReactJS, Bootstrap, Tailwind
