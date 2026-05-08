@@ -50,7 +50,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔧 [KaamWala.pk](https://github.com/susheelkumaar3) — Service Marketplace Platform
+### 🔧 [KaamWala.pk](https://github.com/SusheelK7) — Service Marketplace Platform
 > A full-stack platform connecting users with skilled workers using **location-based search**.
 
 - Built with **MERN stack** + **Socket.io** for real-time chat
@@ -59,7 +59,7 @@
 
 ---
 
-### 🏫 [CampusBuzz](https://github.com/susheelkumaar3) — University Social Platform
+### 🏫 [CampusBuzz](https://github.com/SusheelK7) — University Social Platform
 > An anonymous social platform for university students with department-wise engagement.
 
 - Built on **MERN stack** with `.edu` email verification and JWT authentication
@@ -68,7 +68,7 @@
 
 ---
 
-### 📅 [MySchedule](https://github.com/susheelkumaar3) — Timetable Management System
+### 📅 [MySchedule](https://github.com/SusheelK7) — Timetable Management System
 > A web app to manage and visualize university class schedules.
 
 - Supports **timetable upload** and manual entry
@@ -79,8 +79,10 @@
 
 ## 📊 GitHub Stats
 
-![Susheel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SusheelK7&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SusheelK7&layout=compact&theme=default&hide_border=true)
+![Susheel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SusheelK7&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SusheelK7&layout=compact&hide_border=true&count_private=true&cache_seconds=1800&bg_color=00000000)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SusheelK7&hide_border=true)
 
 ---
 
